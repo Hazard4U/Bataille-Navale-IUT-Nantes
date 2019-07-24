@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-rest-api-sqlite",
+  "version": "1.0.0",
+  "description": "POC - NodeJS REST API using SQLite as a database.",
+  "author": "Adapté de Romuald Tuffreau https://github.com/romwaldtff",
+  "dependencies": {
+    "bluebird": "*",
+    "body-parser": "*",
+    "ejs": "*",
+    "express": "*",
+    "sqlite": "*",
+    "sqlite3": "^4.0.9"
+  },
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://gitlab.univ-nantes.fr/dev-web/projet_2018-2019/issues"
+  },
+  "repository": "https://gitlab.univ-nantes.fr/dev-web/projet_2018-2019"
+}
